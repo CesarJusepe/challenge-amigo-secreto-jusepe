@@ -13,7 +13,7 @@
    
 5. Se generará un nombre aleatorio en color verde que indicara el nombre de un amigo de la lista. Este nombre será del amigo seleccionado/ganador.
 
-Desarrollado por Cesar Jusepe
-
+![Badge Creado](https://img.shields.io/badge/CREADO%20POR-CESAR%20JUSEPE%20SALAZAR-blue)
+![Badge Liberado](https://img.shields.io/badge/STATUS-LIBERADO%20VERSION%201-green)
 
 

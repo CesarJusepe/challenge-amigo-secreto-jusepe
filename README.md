@@ -9,7 +9,7 @@
    
 4. Repita los paras 1 y 2 para agregar el nombre de todos los amigos que van a jugar.
 
-    Nota 2: Mientras agrega cada nombre de amigo, se generara una lista de los amigos agrgados abajo del recuadro "Escribe un nombre"
+    Nota 2: Mientras agrega cada nombre de amigo, se generara una lista de los amigos agregados abajo del recuadro "Escribe un nombre"
 
 6. Un vez terminado de agregar a todos los amigos. Dar click en el botón de "Sortear Amigo".
    
